@@ -1,5 +1,5 @@
 =begin html
 
-<p><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ayaka14732&include_all_commits=true&show_icons=true&hide_rank=true&hide=contribs&title_color=ff1493&icon_color=ff417d" width="500px"/></a></p><p><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaka14732&layout=compact&card_width=416&title_color=ff1493" width="500px"/></a></p>
+<p><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ayaka14732&include_all_commits=true&show_icons=true&hide_rank=true&hide=contribs&title_color=ff1493&icon_color=ff417d" width="320px" height="170px"/></a> <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaka14732&layout=compact&card_width=262&title_color=ff1493" width="320px" height="170px"/></a></p>
 
 =end html
