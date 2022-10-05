@@ -5,7 +5,7 @@
 - 💻 Senior open-source developer for 6 years
 - 🗽 Leader of nk2028
 - 🌎 Member of Ideographic Research Group and CanCLID
-- <img width="18" src="linux.png" /> Experienced Arch Linux (desktop) and Ubuntu (server) user
+- <img width="13.75" src="linux.png" /> Experienced Arch Linux (desktop) and Ubuntu (server) user
 - 💬 Speak Mandarin, Cantonese, English, Japanese, Norwegian and Danish
 - 💜 Like Python, JavaScript, Haskell, Julia, Rust, Clojure and Idris
 
