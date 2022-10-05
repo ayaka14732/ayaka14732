@@ -60,9 +60,6 @@
 - [ayaka14732/TinyPE-on-Win10](https://github.com/ayaka14732/TinyPE-on-Win10): Minimal (268 bytes) 64-bit PE file on Windows
 - [ayaka14732/cs224n-a4](https://github.com/ayaka14732/cs224n-a4): A decent solution to CS224n Assignment #4 (Cherokee NMT)
 - [ayaka14732/hls-simple](https://github.com/ayaka14732/hls-simple): HLS loop streaming server in Haskell
-
-**Web Services**
-
 - [ayaka14732/graphviz-server](https://github.com/ayaka14732/graphviz-server): Web API for rendering Graphviz images<!-- Web Services -->
 - [ayaka14732/telegram-translate-bot](https://github.com/ayaka14732/telegram-translate-bot): Telegram translation bot [@suginatransbot](https://t.me/suginatransbot)
 - [ayaka14732/shieldy](https://github.com/ayaka14732/shieldy): Telegram anti-spam bot [@shieldydustbot](https://t.me/shieldydustbot)
