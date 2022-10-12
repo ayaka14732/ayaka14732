@@ -20,7 +20,7 @@
 - [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
 - [ayaka14732/bart-base-jax#twblg](https://github.com/ayaka14732/bart-base-jax/tree/twblg): Taiwanese Hokkien translation model
 - [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): Visualise BERT attention in-browser
-- [ayaka14732/wakong](https://github.com/ayaka14732/wakong): An appropriate and robust masking algorithm for generating the training objective of text infilling
+- [ayaka14732/wakong](https://github.com/ayaka14732/wakong): An appropriate and robust masking algorithm for model pre-training
 - [CanCLID/awesome-cantonese-nlp](https://github.com/CanCLID/awesome-cantonese-nlp): A curated list of Cantonese NLP resources<!-- Cantonese NLP -->
 - [ayaka14732/yue-cmn-classification-task](https://github.com/ayaka14732/yue-cmn-classification-task): Cantonese/Mandarin Classification Task
 - [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg): Cantonese segmentation tool
