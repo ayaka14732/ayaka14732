@@ -20,6 +20,7 @@
 - [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
 - [ayaka14732/bart-base-jax#twblg](https://github.com/ayaka14732/bart-base-jax/tree/twblg): Taiwanese Hokkien translation model
 - [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): Visualise BERT attention in-browser
+- [ayaka14732/wakong](https://github.com/ayaka14732/wakong): An appropriate and robust masking algorithm for generating the training objective of text infilling
 - [CanCLID/awesome-cantonese-nlp](https://github.com/CanCLID/awesome-cantonese-nlp): A curated list of Cantonese NLP resources<!-- Cantonese NLP -->
 - [ayaka14732/yue-cmn-classification-task](https://github.com/ayaka14732/yue-cmn-classification-task): Cantonese/Mandarin Classification Task
 - [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg): Cantonese segmentation tool
@@ -60,6 +61,8 @@
 - [ayaka14732/TinyPE-on-Win10](https://github.com/ayaka14732/TinyPE-on-Win10): Minimal (268 bytes) 64-bit PE file on Windows
 - [ayaka14732/cs224n-a4](https://github.com/ayaka14732/cs224n-a4): A decent solution to CS224n Assignment #4 (Cherokee NMT)
 - [ayaka14732/hls-simple](https://github.com/ayaka14732/hls-simple): HLS loop streaming server in Haskell
-- [ayaka14732/graphviz-server](https://github.com/ayaka14732/graphviz-server): Web API for rendering Graphviz images<!-- Web Services -->
+- [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): Generates Graphviz image URL that can be used directly on any website<!-- Web Services -->
+- [ayaka14732/graphviz-server](https://github.com/ayaka14732/graphviz-server): Web API for rendering Graphviz images
+- [ayaka14732/basehangul-online](https://github.com/ayaka14732/basehangul-online): Online BaseHangul Encoder And Decoder
 - [ayaka14732/telegram-translate-bot](https://github.com/ayaka14732/telegram-translate-bot): Telegram translation bot [@suginatransbot](https://t.me/suginatransbot)
 - [ayaka14732/shieldy](https://github.com/ayaka14732/shieldy): Telegram anti-spam bot [@shieldydustbot](https://t.me/shieldydustbot)
