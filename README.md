@@ -20,7 +20,7 @@
 - [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
 - [ayaka14732/bart-base-jax#twblg](https://github.com/ayaka14732/bart-base-jax/tree/twblg): Taiwanese Hokkien translation model
 - [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): Visualise BERT attention in-browser
-- [ayaka14732/wakong](https://github.com/ayaka14732/wakong): An appropriate and robust masking algorithm for model pre-training
+- [ayaka14732/wakong](https://github.com/ayaka14732/wakong): A rigorous and robust masking algorithm for model pre-training
 - [CanCLID/awesome-cantonese-nlp](https://github.com/CanCLID/awesome-cantonese-nlp): A curated list of Cantonese NLP resources<!-- Cantonese NLP -->
 - [ayaka14732/yue-cmn-classification-task](https://github.com/ayaka14732/yue-cmn-classification-task): Cantonese/Mandarin Classification Task
 - [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg): Cantonese segmentation tool
@@ -42,6 +42,7 @@
 
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese<!-- Chinese Conversion -->
 - [StarCC0/starcc-py](https://github.com/StarCC0/starcc-py): Python implementation of StarCC, the next generation of OpenCC
+- [StarCC0/dict](https://github.com/StarCC0/dict): Dictionaries for StarCC
 - [ayaka14732/FanWunMing](https://github.com/ayaka14732/FanWunMing): A serif Simplified-to-Traditional-Chinese font
 - [ayaka14732/FanWunHak](https://github.com/ayaka14732/FanWunHak): A sans-serif Simplified-to-Traditional-Chinese font
 - [rime/rime-cantonese](https://github.com/rime/rime-cantonese): A Multi-platform Cantonese Keyboard<!-- Jyutping -->
