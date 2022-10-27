@@ -18,9 +18,11 @@
 - [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
 - [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
+- [ayaka14732/bart-base-jax#cantonese-pretrain](https://github.com/ayaka14732/bart-base-jax/tree/cantonese-pretrain): The Cantonese version of BART base
 - [ayaka14732/bart-base-jax#twblg](https://github.com/ayaka14732/bart-base-jax/tree/twblg): Taiwanese Hokkien translation model
 - [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): Visualise BERT attention in-browser
 - [ayaka14732/wakong](https://github.com/ayaka14732/wakong): A rigorous and robust masking algorithm for model pre-training
+- [ayaka14732/bert-tokenizer-cantonese](https://github.com/ayaka14732/bert-tokenizer-cantonese): BERT Tokenizer with vocabulary tailored for Cantonese
 - [CanCLID/awesome-cantonese-nlp](https://github.com/CanCLID/awesome-cantonese-nlp): A curated list of Cantonese NLP resources<!-- Cantonese NLP -->
 - [ayaka14732/yue-cmn-classification-task](https://github.com/ayaka14732/yue-cmn-classification-task): Cantonese/Mandarin Classification Task
 - [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg): Cantonese segmentation tool
