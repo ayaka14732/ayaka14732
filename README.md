@@ -11,23 +11,26 @@
 
 ### Featured Projects
 
-**Deep Learning and Natural Language Processing**
+**Natural Language Processing**
 
-- [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more<!-- Deep Learning -->
 - [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
-- [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
-- [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
 - [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
-- [ayaka14732/bart-base-jax#cantonese-pretrain](https://github.com/ayaka14732/bart-base-jax/tree/cantonese-pretrain): The Cantonese version of BART base
-- [ayaka14732/bart-base-jax#twblg](https://github.com/ayaka14732/bart-base-jax/tree/twblg): Taiwanese Hokkien translation model
+- [ayaka14732/bart-base-cantonese](https://github.com/ayaka14732/bart-base-cantonese): The pre-trained Cantonese BART model
+- [ayaka14732/TransCan](https://github.com/ayaka14732/TransCan): English-Cantonese translation model
+- [ayaka14732/bart-base-jax#twblg](https://github.com/ayaka14732/bart-base-jax/tree/twblg): Mandarin-Taiwanese Hokkien translation model
 - [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): Visualise BERT attention in-browser
 - [ayaka14732/wakong](https://github.com/ayaka14732/wakong): A rigorous and robust masking algorithm for model pre-training
 - [ayaka14732/bert-tokenizer-cantonese](https://github.com/ayaka14732/bert-tokenizer-cantonese): BERT Tokenizer with vocabulary tailored for Cantonese
-- [CanCLID/awesome-cantonese-nlp](https://github.com/CanCLID/awesome-cantonese-nlp): A curated list of Cantonese NLP resources<!-- Cantonese NLP -->
-- [ayaka14732/yue-cmn-classification-task](https://github.com/ayaka14732/yue-cmn-classification-task): Cantonese/Mandarin Classification Task
 - [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg): Cantonese segmentation tool
 - [ayaka14732/lihkg-scraper](https://github.com/ayaka14732/lihkg-scraper): A Python script for scraping the LIHKG forum
-- [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): Description same as title
+- [ayaka14732/yue-cmn-classification-task](https://github.com/ayaka14732/yue-cmn-classification-task): Cantonese/Mandarin Classification Task
+
+**Deep Learning**
+
+- [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
+- [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
+- [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
+- [CanCLID/awesome-cantonese-nlp](https://github.com/CanCLID/awesome-cantonese-nlp): A curated list of Cantonese NLP resources
 
 **Historical Linguistics**
 
@@ -55,6 +58,7 @@
 - [nushu-script/nushu-script.github.io](https://github.com/nushu-script/nushu-script.github.io): Online Nüshu Dictionary<!-- Nüshu -->
 - [nushu-script/rime-nushu](https://github.com/nushu-script/rime-nushu): A Multi-platform Nüshu Keyboard
 - [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime): A curated list of Rime IME schemata<!-- Other Linguistics Projects And Language Tools -->
+- [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): Description same as title
 - [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A Putonghua to IPA converter
 - [ayaka14732/inject-xdi8](https://github.com/ayaka14732/inject-xdi8): A browser extension that adds Shidinn on Chinese characters
 - [nk2028/ipa-practice](https://github.com/nk2028/ipa-practice): Online IPA Practice System
