@@ -11,8 +11,11 @@
 
 ### Featured Projects
 
-**Natural Language Processing**
+**Deep Learning and Natural Language Processing**
 
+- [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
+- [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
+- [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
 - [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
 - [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
 - [ayaka14732/bart-base-cantonese](https://github.com/ayaka14732/bart-base-cantonese): The pre-trained Cantonese BART model
@@ -24,12 +27,6 @@
 - [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg): Cantonese segmentation tool
 - [ayaka14732/lihkg-scraper](https://github.com/ayaka14732/lihkg-scraper): A Python script for scraping the LIHKG forum
 - [ayaka14732/yue-cmn-classification-task](https://github.com/ayaka14732/yue-cmn-classification-task): Cantonese/Mandarin Classification Task
-
-**Deep Learning**
-
-- [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
-- [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
-- [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
 - [CanCLID/awesome-cantonese-nlp](https://github.com/CanCLID/awesome-cantonese-nlp): A curated list of Cantonese NLP resources
 
 **Historical Linguistics**
