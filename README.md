@@ -60,6 +60,7 @@
 - [nk2028/ipa-practice](https://github.com/nk2028/ipa-practice): Online IPA Practice System
 - [ayaka14732/tibetan-practice](https://github.com/ayaka14732/tibetan-practice): Online Tibetan Practice System
 - [ayaka14732/SNHakkaNews](https://github.com/ayaka14732/SNHakkaNews): List of daily news videos in Shin Neng Hakka
+- [ayaka14732/VunsioNewsList](https://github.com/ayaka14732/VunsioNewsList): List of daily news videos in Vunsio Hainanese
 - [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos<!-- Featured Projects -->
 - [ayaka14732/TinyPE-on-Win10](https://github.com/ayaka14732/TinyPE-on-Win10): Minimal (268 bytes) 64-bit PE file on Windows
 - [ayaka14732/cs224n-a4](https://github.com/ayaka14732/cs224n-a4): A decent solution to CS224n Assignment #4 (Cherokee NMT)
