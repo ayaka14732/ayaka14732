@@ -1,6 +1,6 @@
 ### Hello, I am Ayaka 👋🏻
 
-<br /><a href="https://en.ayaka.shn.hk/"><img src="website.png" alt="Visit my website!" height="40" /></a>
+<a href="https://en.ayaka.shn.hk/"><img src="website.png" alt="Visit my website!" height="40" align="right" /></a>
 
 ### Featured Projects
 
