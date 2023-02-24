@@ -1,13 +1,6 @@
 ### Hello, I am Ayaka 👋🏻
 
-- 🎓 Master’s student in Singapore
-- 🔬 Focus on NLP model architecture and training
-- 💻 Senior open-source developer for 6 years
-- 🗽 Leader of nk2028
-- 🌎 Member of Ideographic Research Group and CanCLID
-- <img width="13.75" src="linux.png" /> Experienced Arch Linux (desktop) and Ubuntu (server) user
-- 💬 Speak Mandarin, Cantonese, English, Japanese, Norwegian and Danish
-- 💜 Like Python, JavaScript, Haskell, Julia, Rust, Clojure and Idris
+<a href="https://en.ayaka.shn.hk/"><img src="website.png" alt="Visit my website!" height="40" /></a>
 
 ### Featured Projects
 
