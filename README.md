@@ -1,6 +1,6 @@
 ### Hello, I am Ayaka 👋🏻
 
-<a href="https://en.ayaka.shn.hk/"><img src="website.png" alt="Visit my website!" height="40" /></a>
+<br /><a href="https://en.ayaka.shn.hk/"><img src="website.png" alt="Visit my website!" height="40" /></a>
 
 ### Featured Projects
 
@@ -57,6 +57,7 @@
 - [ayaka14732/VunsioNewsList](https://github.com/ayaka14732/VunsioNewsList): List of daily news videos in Vunsio Hainanese
 - [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos<!-- Featured Projects -->
 - [ayaka14732/TinyPE-on-Win10](https://github.com/ayaka14732/TinyPE-on-Win10): Minimal (268 bytes) 64-bit PE file on Windows
+- [ayaka14732/nya-calendar](https://github.com/ayaka14732/nya-calendar): Implementation of the Nya Calendar
 - [ayaka14732/cs224n-a4](https://github.com/ayaka14732/cs224n-a4): A decent solution to CS224n Assignment #4 (Cherokee NMT)
 - [ayaka14732/hls-simple](https://github.com/ayaka14732/hls-simple): HLS loop streaming server in Haskell
 - [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): Generates Graphviz image URL that can be used directly on any website<!-- Web Services -->
