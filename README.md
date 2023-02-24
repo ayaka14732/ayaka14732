@@ -1,8 +1,6 @@
 ### Hello, I am Ayaka 👋🏻
 
-<a href="https://en.ayaka.shn.hk/"><img src="website.png" alt="Visit my website!" height="40" align="right" /></a>
-
-### Featured Projects
+<a href="https://en.ayaka.shn.hk/"><img src="website.png" alt="Visit my website!" width="140" /></a><br />Here are my featured projects:
 
 **Deep Learning and Natural Language Processing**
 
