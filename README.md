@@ -7,8 +7,8 @@
 - **22407** [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
 - **257** [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - **88** [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
-- **89227** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
-- **1793** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
+- **89232** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
+- **1795** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
 - **18** [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
 - **4** [ayaka14732/bart-base-cantonese](https://github.com/ayaka14732/bart-base-cantonese): The pre-trained Cantonese BART model
 - **24** [ayaka14732/TransCan](https://github.com/ayaka14732/TransCan): English-Cantonese translation model
@@ -34,7 +34,7 @@
 
 **Others**
 
-- **7072** [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese<!-- Chinese Conversion -->
+- **7073** [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese<!-- Chinese Conversion -->
 - **53** [StarCC0/starcc-py](https://github.com/StarCC0/starcc-py): Python implementation of StarCC, the next generation of OpenCC
 - **9** [StarCC0/dict](https://github.com/StarCC0/dict): Dictionaries for StarCC
 - **167** [ayaka14732/FanWunMing](https://github.com/ayaka14732/FanWunMing): A serif Simplified-to-Traditional-Chinese font
