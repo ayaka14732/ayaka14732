@@ -8,6 +8,7 @@
 - [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
 - [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
 - [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
 - [ayaka14732/bart-base-cantonese](https://github.com/ayaka14732/bart-base-cantonese): The pre-trained Cantonese BART model
 - [ayaka14732/TransCan](https://github.com/ayaka14732/TransCan): English-Cantonese translation model
@@ -50,6 +51,7 @@
 - [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A Putonghua to IPA converter
 - [ayaka14732/inject-xdi8](https://github.com/ayaka14732/inject-xdi8): A browser extension that adds Shidinn on Chinese characters
 - [nk2028/ipa-practice](https://github.com/nk2028/ipa-practice): Online IPA Practice System
+- [ayaka14732/uyghur-practice](https://github.com/ayaka14732/uyghur-practice): Online Uyghur Practice System
 - [ayaka14732/tibetan-practice](https://github.com/ayaka14732/tibetan-practice): Online Tibetan Practice System
 - [ayaka14732/SNHakkaNews](https://github.com/ayaka14732/SNHakkaNews): List of daily news videos in Shin Neng Hakka
 - [ayaka14732/VunsioNewsList](https://github.com/ayaka14732/VunsioNewsList): List of daily news videos in Vunsio Hainanese
