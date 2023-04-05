@@ -7,8 +7,8 @@
 - **22455** [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
 - **257** [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - **88** [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
-- **90254** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
-- **2073** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
+- **90262** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
+- **2074** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
 - **18** [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
 - **4** [ayaka14732/bart-base-cantonese](https://github.com/ayaka14732/bart-base-cantonese): The pre-trained Cantonese BART model
 - **24** [ayaka14732/TransCan](https://github.com/ayaka14732/TransCan): English-Cantonese translation model
