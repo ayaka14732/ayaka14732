@@ -4,11 +4,11 @@
 
 **Deep Learning and Natural Language Processing**
 
-- **22407** [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
+- **22455** [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
 - **257** [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - **88** [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
-- **89232** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
-- **1795** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
+- **90254** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
+- **2073** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
 - **18** [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
 - **4** [ayaka14732/bart-base-cantonese](https://github.com/ayaka14732/bart-base-cantonese): The pre-trained Cantonese BART model
 - **24** [ayaka14732/TransCan](https://github.com/ayaka14732/TransCan): English-Cantonese translation model
@@ -16,7 +16,7 @@
 - **38** [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): Visualise BERT attention in-browser
 - **2** [ayaka14732/wakong](https://github.com/ayaka14732/wakong): A rigorous and robust masking algorithm for model pre-training
 - **10** [ayaka14732/bert-tokenizer-cantonese](https://github.com/ayaka14732/bert-tokenizer-cantonese): BERT Tokenizer with vocabulary tailored for Cantonese
-- **21** [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg): Cantonese segmentation tool
+- **22** [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg): Cantonese segmentation tool
 - **15** [ayaka14732/lihkg-scraper](https://github.com/ayaka14732/lihkg-scraper): A Python script for scraping the LIHKG forum
 - **1** [ayaka14732/yue-cmn-classification-task](https://github.com/ayaka14732/yue-cmn-classification-task): Cantonese/Mandarin Classification Task
 - **66** [CanCLID/awesome-cantonese-nlp](https://github.com/CanCLID/awesome-cantonese-nlp): A curated list of Cantonese NLP resources
@@ -34,19 +34,19 @@
 
 **Others**
 
-- **7073** [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese<!-- Chinese Conversion -->
+- **7083** [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese<!-- Chinese Conversion -->
 - **53** [StarCC0/starcc-py](https://github.com/StarCC0/starcc-py): Python implementation of StarCC, the next generation of OpenCC
 - **9** [StarCC0/dict](https://github.com/StarCC0/dict): Dictionaries for StarCC
-- **167** [ayaka14732/FanWunMing](https://github.com/ayaka14732/FanWunMing): A serif Simplified-to-Traditional-Chinese font
+- **168** [ayaka14732/FanWunMing](https://github.com/ayaka14732/FanWunMing): A serif Simplified-to-Traditional-Chinese font
 - **75** [ayaka14732/FanWunHak](https://github.com/ayaka14732/FanWunHak): A sans-serif Simplified-to-Traditional-Chinese font
-- **379** [rime/rime-cantonese](https://github.com/rime/rime-cantonese): A Multi-platform Cantonese Keyboard<!-- Jyutping -->
+- **381** [rime/rime-cantonese](https://github.com/rime/rime-cantonese): A Multi-platform Cantonese Keyboard<!-- Jyutping -->
 - **49** [CanCLID/jyutping.org](https://github.com/CanCLID/jyutping.org): Introduction to Jyutping, the romanisation system for Cantonese
 - **7** [CanCLID/jyutping.net](https://github.com/CanCLID/jyutping.net): Jyutping Input Method Website
 - **41** [CanCLID/inject-jyutping](https://github.com/CanCLID/inject-jyutping): A browser extension that adds Cantonese on Chinese characters
 - **8** [CanCLID/rime-loengfan](https://github.com/CanCLID/rime-loengfan): The Cantonese version of the Liang Fen input method
 - **27** [nushu-script/nushu-script.github.io](https://github.com/nushu-script/nushu-script.github.io): Online Nüshu Dictionary<!-- Nüshu -->
 - **30** [nushu-script/rime-nushu](https://github.com/nushu-script/rime-nushu): A Multi-platform Nüshu Keyboard
-- **549** [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime): A curated list of Rime IME schemata<!-- Other Linguistics Projects And Language Tools -->
+- **551** [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime): A curated list of Rime IME schemata<!-- Other Linguistics Projects And Language Tools -->
 - **6** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): Description same as title
 - **19** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A Putonghua to IPA converter
 - **3** [ayaka14732/inject-xdi8](https://github.com/ayaka14732/inject-xdi8): A browser extension that adds Shidinn on Chinese characters
