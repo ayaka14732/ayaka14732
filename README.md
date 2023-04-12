@@ -4,14 +4,14 @@
 
 **Deep Learning and Natural Language Processing**
 
-- **22549** [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
+- **22575** [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
 - **280** [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - **89** [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
-- **91626** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
-- **2378** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
+- **92265** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
+- **2530** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
 - **18** [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
 - **5** [ayaka14732/bart-base-cantonese](https://github.com/ayaka14732/bart-base-cantonese): The pre-trained Cantonese BART model
-- **24** [ayaka14732/TransCan](https://github.com/ayaka14732/TransCan): English-Cantonese translation model
+- **25** [ayaka14732/TransCan](https://github.com/ayaka14732/TransCan): English-Cantonese translation model
 - **18** [ayaka14732/bart-base-jax#twblg](https://github.com/ayaka14732/bart-base-jax/tree/twblg): Mandarin-Taiwanese Hokkien translation model
 - **38** [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): Visualise BERT attention in-browser
 - **2** [ayaka14732/wakong](https://github.com/ayaka14732/wakong): A rigorous and robust masking algorithm for model pre-training
@@ -34,7 +34,7 @@
 
 **Others**
 
-- **7101** [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese<!-- Chinese Conversion -->
+- **7110** [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese<!-- Chinese Conversion -->
 - **53** [StarCC0/starcc-py](https://github.com/StarCC0/starcc-py): Python implementation of StarCC, the next generation of OpenCC
 - **9** [StarCC0/dict](https://github.com/StarCC0/dict): Dictionaries for StarCC
 - **169** [ayaka14732/FanWunMing](https://github.com/ayaka14732/FanWunMing): A serif Simplified-to-Traditional-Chinese font
@@ -46,7 +46,7 @@
 - **8** [CanCLID/rime-loengfan](https://github.com/CanCLID/rime-loengfan): The Cantonese version of the Liang Fen input method
 - **27** [nushu-script/nushu-script.github.io](https://github.com/nushu-script/nushu-script.github.io): Online Nüshu Dictionary<!-- Nüshu -->
 - **30** [nushu-script/rime-nushu](https://github.com/nushu-script/rime-nushu): A Multi-platform Nüshu Keyboard
-- **557** [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime): A curated list of Rime IME schemata<!-- Other Linguistics Projects And Language Tools -->
+- **560** [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime): A curated list of Rime IME schemata<!-- Other Linguistics Projects And Language Tools -->
 - **6** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): Description same as title
 - **20** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A Putonghua to IPA converter
 - **3** [ayaka14732/inject-xdi8](https://github.com/ayaka14732/inject-xdi8): A browser extension that adds Shidinn on Chinese characters
