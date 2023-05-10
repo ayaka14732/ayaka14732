@@ -4,18 +4,18 @@
 
 **Deep Learning and Natural Language Processing**
 
-- **22959** [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
+- **23048** [google/jax](https://github.com/google/jax): Autograd and XLA: differentiate, vectorize, JIT to GPU/TPU and more
 - **282** [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - **95** [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector
-- **97429** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
-- **3546** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
+- **98651** [huggingface/transformers](https://github.com/huggingface/transformers): Library for state-of-the-art Transformers
+- **3817** [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing website that provides a better UI for ChatGPT
 - **21** [ayaka14732/bart-base-jax](https://github.com/ayaka14732/bart-base-jax): JAX implementation of the BART-base model from scratch
-- **5** [ayaka14732/bart-base-cantonese](https://github.com/ayaka14732/bart-base-cantonese): The pre-trained Cantonese BART model
-- **26** [ayaka14732/TransCan](https://github.com/ayaka14732/TransCan): English-Cantonese translation model
+- **6** [ayaka14732/bart-base-cantonese](https://github.com/ayaka14732/bart-base-cantonese): The pre-trained Cantonese BART model
+- **27** [ayaka14732/TransCan](https://github.com/ayaka14732/TransCan): English-Cantonese translation model
 - **21** [ayaka14732/bart-base-jax#twblg](https://github.com/ayaka14732/bart-base-jax/tree/twblg): Mandarin-Taiwanese Hokkien translation model
 - **41** [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): Visualise BERT attention in-browser
 - **2** [ayaka14732/wakong](https://github.com/ayaka14732/wakong): A rigorous and robust masking algorithm for model pre-training
-- **11** [ayaka14732/bert-tokenizer-cantonese](https://github.com/ayaka14732/bert-tokenizer-cantonese): BERT Tokenizer with vocabulary tailored for Cantonese
+- **12** [ayaka14732/bert-tokenizer-cantonese](https://github.com/ayaka14732/bert-tokenizer-cantonese): BERT Tokenizer with vocabulary tailored for Cantonese
 - **22** [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg): Cantonese segmentation tool
 - **16** [ayaka14732/lihkg-scraper](https://github.com/ayaka14732/lihkg-scraper): A Python script for scraping the LIHKG forum
 - **1** [ayaka14732/yue-cmn-classification-task](https://github.com/ayaka14732/yue-cmn-classification-task): Cantonese/Mandarin Classification Task
@@ -34,19 +34,19 @@
 
 **Others**
 
-- **7176** [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese<!-- Chinese Conversion -->
-- **53** [StarCC0/starcc-py](https://github.com/StarCC0/starcc-py): Python implementation of StarCC, the next generation of OpenCC
+- **7204** [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese<!-- Chinese Conversion -->
+- **54** [StarCC0/starcc-py](https://github.com/StarCC0/starcc-py): Python implementation of StarCC, the next generation of OpenCC
 - **9** [StarCC0/dict](https://github.com/StarCC0/dict): Dictionaries for StarCC
-- **171** [ayaka14732/FanWunMing](https://github.com/ayaka14732/FanWunMing): A serif Simplified-to-Traditional-Chinese font
-- **77** [ayaka14732/FanWunHak](https://github.com/ayaka14732/FanWunHak): A sans-serif Simplified-to-Traditional-Chinese font
-- **394** [rime/rime-cantonese](https://github.com/rime/rime-cantonese): A Multi-platform Cantonese Keyboard<!-- Jyutping -->
+- **172** [ayaka14732/FanWunMing](https://github.com/ayaka14732/FanWunMing): A serif Simplified-to-Traditional-Chinese font
+- **80** [ayaka14732/FanWunHak](https://github.com/ayaka14732/FanWunHak): A sans-serif Simplified-to-Traditional-Chinese font
+- **397** [rime/rime-cantonese](https://github.com/rime/rime-cantonese): A Multi-platform Cantonese Keyboard<!-- Jyutping -->
 - **52** [CanCLID/jyutping.org](https://github.com/CanCLID/jyutping.org): Introduction to Jyutping, the romanisation system for Cantonese
 - **8** [CanCLID/jyutping.net](https://github.com/CanCLID/jyutping.net): Jyutping Input Method Website
-- **42** [CanCLID/inject-jyutping](https://github.com/CanCLID/inject-jyutping): A browser extension that adds Cantonese on Chinese characters
+- **43** [CanCLID/inject-jyutping](https://github.com/CanCLID/inject-jyutping): A browser extension that adds Cantonese on Chinese characters
 - **8** [CanCLID/rime-loengfan](https://github.com/CanCLID/rime-loengfan): The Cantonese version of the Liang Fen input method
 - **27** [nushu-script/nushu-script.github.io](https://github.com/nushu-script/nushu-script.github.io): Online Nüshu Dictionary<!-- Nüshu -->
 - **31** [nushu-script/rime-nushu](https://github.com/nushu-script/rime-nushu): A Multi-platform Nüshu Keyboard
-- **674** [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime): A curated list of Rime IME schemata<!-- Other Linguistics Projects And Language Tools -->
+- **678** [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime): A curated list of Rime IME schemata<!-- Other Linguistics Projects And Language Tools -->
 - **6** [nk2028/commonly-used-chinese-characters-and-words](https://github.com/nk2028/commonly-used-chinese-characters-and-words): Description same as title
 - **21** [nk2028/putonghua-ipa-converter](https://github.com/nk2028/putonghua-ipa-converter): A Putonghua to IPA converter
 - **3** [ayaka14732/inject-xdi8](https://github.com/ayaka14732/inject-xdi8): A browser extension that adds Shidinn on Chinese characters
@@ -55,8 +55,8 @@
 - **0** [ayaka14732/tibetan-practice](https://github.com/ayaka14732/tibetan-practice): Online Tibetan Practice System
 - **5** [ayaka14732/SNHakkaNews](https://github.com/ayaka14732/SNHakkaNews): List of daily news videos in Shin Neng Hakka
 - **4** [ayaka14732/VunsioNewsList](https://github.com/ayaka14732/VunsioNewsList): List of daily news videos in Vunsio Hainanese
-- **26** [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos<!-- Featured Projects -->
-- **55** [ayaka14732/TinyPE-on-Win10](https://github.com/ayaka14732/TinyPE-on-Win10): Minimal (268 bytes) 64-bit PE file on Windows
+- **27** [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos<!-- Featured Projects -->
+- **58** [ayaka14732/TinyPE-on-Win10](https://github.com/ayaka14732/TinyPE-on-Win10): Minimal (268 bytes) 64-bit PE file on Windows
 - **5** [ayaka14732/nya-calendar](https://github.com/ayaka14732/nya-calendar): Implementation of the Nya Calendar
 - **0** [ayaka14732/cs224n-a4](https://github.com/ayaka14732/cs224n-a4): A decent solution to CS224n Assignment #4 (Cherokee NMT)
 - **2** [ayaka14732/hls-simple](https://github.com/ayaka14732/hls-simple): HLS loop streaming server in Haskell
