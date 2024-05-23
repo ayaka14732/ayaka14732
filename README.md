@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Meet Ayaka: A Passionate Researcher & Open-Source Contributor
 
-Hi there! I am Ayaka, a 24-year-old computer science, historical linguistics, and mathematics researcher.
+Hi there! I am Ayaka, a 25-year-old computer science, historical linguistics, and mathematics researcher.
 
 I have made significant contributions to the open-source community. I have created numerous open-source projects on GitHub and have hosted several websites and web services at my own expense. My open-source contributions span various fields, including deep learning, natural language processing, language conservation, historical linguistics, and computational linguistics.
 
