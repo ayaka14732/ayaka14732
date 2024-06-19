@@ -1,20 +1,20 @@
-# 👩🏻‍💻 Meet Ayaka: A Passionate Researcher & Open-Source Contributor
+# Meet Ayaka: A Passionate Researcher & Open-Source Contributor
 
 Hi there! I am Ayaka, a 25-year-old computer science, historical linguistics, and mathematics researcher.
 
 I have made significant contributions to the open-source community. I have created numerous open-source projects on GitHub and have hosted several websites and web services at my own expense. My open-source contributions span various fields, including deep learning, natural language processing, language conservation, historical linguistics, and computational linguistics.
 
-## 📚 Proficiency in Deep Learning
+## Proficiency in Deep Learning
 
 My expertise in deep learning is reflected in my familiarity with [JAX](https://github.com/google/jax) and Google Cloud TPU. I actively submit bug reports, participate in feature discussions and answer questions in the JAX and Google Cloud TPU community. In addition, I created [TPU Starter](https://github.com/ayaka14732/tpu-starter), a comprehensive guide that has helped many people to get started with JAX and Google Cloud TPU. The guide has been translated into Korean and Chinese. Moreover, to enhance the user experience of JAX, I developed [jax-smi](https://github.com/ayaka14732/jax-smi), a tool that enables the monitoring of real-time memory usage of JAX programs, providing a similar experience to that of nvidia-smi. My significant contributions led to the honour of receiving the [2023 Google Open Source Peer Bonus Award](https://opensource.googleblog.com/2023/05/google-open-source-peer-bonus-program-announces-first-group-of-winners-2023.html).
 
-## 💬 Natural Language Processing Expertise
+## Natural Language Processing Expertise
 
 In natural language processing, I have contributed to the [Hugging Face Transformers](https://github.com/huggingface/transformers) library and released several NLP models. Besides, I have reimplemented the [BART](https://github.com/ayaka14732/bart-base-jax) and [Llama 2](https://github.com/ayaka14732/llama-2-jax) models, and also collaborated on the reimplementation of the [Mistral](https://github.com/yixiaoer/mistral-v0.2-jax) model, all from scratch using pure JAX. These projects provide high-quality open-source codebases to deep learning researchers and engineers and demonstrate how Transformer models can be implemented using JAX and trained on Google Cloud TPUs. Moreover, I implemented the BERT model from scratch using NumPy, performed in-browser inference using Pyodide, and thereby created [TrAVis](https://github.com/ayaka14732/TrAVis), a BERT attention visualiser that runs entirely within a browser. The visualiser offers an intuitive visualisation of BERT's attention mechanism for researchers.
 
 I constantly keep up with the most advanced AI technologies. I am an early adopter of the most advanced large language model today—ChatGPT and have been studying it since its release. I am the co-author of the open-source [Better ChatGPT](https://github.com/ztjhz/BetterChatGPT) website. Utilising the ChatGPT API, this website offers many advanced features and greatly enhances the ChatGPT user experience. It has garnered over 6,000 stars on GitHub and is being used by millions of users worldwide.
 
-## 🌏 Language Conservation Efforts
+## Language Conservation Efforts
 
 My expertise in NLP also extends to language conservation. I trained the [BART model for Cantonese](https://github.com/ayaka14732/bart-base-cantonese), a low-resource language, and released it on the [Hugging Face Hub](https://huggingface.co/Ayaka/bart-base-cantonese). Building upon this, I proposed [TransCan](https://github.com/ayaka14732/TransCan), an English-to-Cantonese machine translation model, greatly outperforming the state-of-the-art commercial machine translation system by 11.8 BLEU. The model has been released on GitHub, bringing benefits to both Cantonese and the wider low-resource NLP community.
 
@@ -22,7 +22,7 @@ In addition to language models, I have created several datasets. In the [LIHKG S
 
 Moreover, for the conservation of Hainanese and Hakka, I [engineered web-scraping programs](https://ayaka.shn.hk/dialect-news/) to regularly fetch the latest TV news of [Wenchang](https://github.com/ayaka14732/VunsioNewsList) and [Xingning](https://github.com/ayaka14732/SNHakkaNews), which are broadcast in their local dialects.
 
-## 🕰️ Pioneering Contributions in Historical Linguistics
+## Pioneering Contributions in Historical Linguistics
 
 I have also made considerable contributions to the field of historical linguistics. I founded the open-source organisation, [nk2028](https://github.com/nk2028), attracting a community of experts in historical linguistics. In nk2028, we have conducted pioneering research in the field of Middle Chinese phonology. We innovatively formalised the phonological positions of the Tshet-uinh phonological system as 6-tuples, which allowed us to accurately analyse the sound changes that have happened throughout the history of the Chinese language.
 
@@ -30,7 +30,7 @@ Moreover, in the process of putting this system into practice, we explored diffe
 
 Based on this, we released the [Qieyun Autoderiver](https://github.com/nk2028/qieyun-autoderiver) website, allowing community members to contribute laws of sound changes [for various languages](https://github.com/nk2028/qieyun-examples). This website has effectively invigorated the community and attracted many people to this field. To help beginners master the Tshet-uinh phonological system, we also published many tools, such as a tool to [automate the process of puonq-tshet](https://github.com/nk2028/pyanxchet), a tool to [generate Tshet-uinh Flashcards](https://github.com/nk2028/tshet-uinh-flashcard), and a tool to [look up Tshet-uinh phonological positions](https://github.com/nk2028/qieyun-tools).
 
-## 💻 Innovations in Computational Linguistics
+## Innovations in Computational Linguistics
 
 In nk2028, I have also made contributions to other aspects of linguistics. In the field of dialectology, we took over the discontinued MCPDict project and released the [Chinese Dialect Pronunciation Atlas](https://github.com/nk2028/hdqt). Regarding classical Chinese, with the consent of the data provider, Sou-Yun website, we published [ORCHESTRA](https://github.com/nk2028/ORCHESTRA-dataset), a comprehensive dataset of classical Chinese poetry. For phonetics, we created an [IPA Online Practice System](https://github.com/nk2028/ipa-practise) and a [Putonghua IPA Converter](https://github.com/nk2028/putonghua-ipa-converter).<!-- TODO: We also released the uyghur project, encompassing resources about the Uyghur language. -->
 
@@ -40,7 +40,7 @@ For Cantonese, I published [cantoseg](https://github.com/ayaka14732/cantoseg), a
 
 I am an active contributor to the [rime](https://github.com/rime) input method community. As a member of the [CanCLID](https://github.com/CanCLID) organisation, I maintain [rime-cantonese](https://github.com/rime/rime-cantonese), a rime input schema for Cantonese. I've also released input schemata for [TUPA](https://github.com/nk2028/rime-tupa), [Loengfan](https://github.com/CanCLID/rime-loengfan), [Mandarin](https://github.com/ayaka14732/rime-putonghua), and [Nüshu](https://github.com/nushu-script/rime-nushu). Utilising my C++ and Python knowledge, I developed [librime-python](https://github.com/ayaka14732/librime-python), a rime Python plugin that allows users to control the behaviour of the rime program through simple Python scripts. Moreover, I have curated [awesome-rime](https://github.com/ayaka14732/awesome-rime), a comprehensive list of rime schemata and configs, gathering the efforts of the rime community.
 
-## 🎲 Miscellaneous Endeavours and Contributions
+## Miscellaneous Endeavours and Contributions
 
 My open-source contributions extend to my other areas of interest as well. With a deep understanding of the x64 instruction set and the Windows PE file format, I crafted the [smallest 64-Bit PE file on Windows 10](https://github.com/ayaka14732/TinyPE-on-Win10) using the assembly language. The file is a Windows executable of merely 268 bytes that can run normally and pop up a message box. Moreover, I proposed the [Nya Calendar](https://github.com/ayaka14732/nya-calendar), a lunisolar-mercurial calendar that considers the synodic period of the Earth and Mercury and encompasses several unique properties.
 
