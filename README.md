@@ -1,4 +1,4 @@
-# Meet Ayaka: A Passionate Researcher & Open-Source Contributor
+# Meet Ayaka: A Passionate Open-Source Contributor
 
 Hi there! I am Ayaka, a 25-year-old computer science, historical linguistics, and mathematics researcher.
 
