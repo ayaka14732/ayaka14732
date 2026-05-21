@@ -1,6 +1,6 @@
 # Meet Ayaka: A Passionate Open-Source Contributor
 
-Hi there! I am Ayaka, a 26-year-old developer who has made significant contributions to the open-source community. I have created numerous open-source projects on GitHub and have hosted several websites and web services at my own expense. My open-source contributions span various fields, including deep learning, natural language processing, language conservation, historical linguistics, and computational linguistics.
+Hi there! I am Ayaka, a 27-year-old developer who has made significant contributions to the open-source community. I have created numerous open-source projects on GitHub and have hosted several websites and web services at my own expense. My open-source contributions span various fields, including deep learning, natural language processing, language conservation, historical linguistics, and computational linguistics.
 
 ## Proficiency in Deep Learning
 
